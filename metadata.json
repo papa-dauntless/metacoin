@@ -2,7 +2,22 @@
   "name": "Papa Dauntless",
   "image": "https://raw.githubusercontent.com/papa-dauntless/metacoin/refs/heads/main/coin.png",
   "symbol": "DAUNT",
+  "supply": 161610000,
   "description": "The Official Papa Dauntless Token.",
-  "telegram": "https://t.me/PapaDauntless",
-  "website": ""
+  "tokenomics":{
+      "liquidity":48483000,
+      "team":16161000,
+      "airdrop":40402500,
+      "staking":16161000,
+      "ecosystem":24241500,
+      "reserve":16161000
+  },
+  "owner":{
+    "dauntOwner": "24Y7Xf4WMWvgZFcjXzyJejLRUGb6EpxgnF5UAFKaayrB",
+    "dauntAirdrop": "GtCMAYetwRW96DqQeS2DqkkAHXQttswcMWjdTS1AAecA",
+    "dauntEcosystem": "8QSY6q4VqznP2SpoLgnfSFWg3jBsHizVGn7GF4WXbov6"
+},
+  "social":{
+  "telegram": "https://t.me/PapaDauntless"
+  }
 }
